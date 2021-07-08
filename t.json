@@ -1,0 +1,30 @@
+[
+  {
+    "tier1": true,
+    "name": "fooo",
+    "asn": 123,
+    "emails": [
+      "cc@bar.com"
+    ],
+    "send_loa": true
+  },
+  {
+    "tier1": true,
+    "name": "fooo",
+    "asn": 123,
+    "emails": [
+      "cc@bar.com"
+    ],
+    "send_loa": true
+  },
+  {
+    "tier1": true,
+    "name": "fooo",
+    "asn": 123,
+    "emails": [
+      "cc@bar.com",
+      "cc@foo.com",
+    ],
+    "send_loa": false
+  }
+]
