@@ -23,7 +23,7 @@
     "asn": 123,
     "emails": [
       "cc@bar.com",
-      "cc@foo.com",
+      "cc@foo.com"
     ],
     "send_loa": false
   }
