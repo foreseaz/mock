@@ -1,0 +1,8 @@
+{
+  "Transits": {
+    "tier1": "boolean",
+    "name": "string",
+    "emails": "string[]",
+    "send_loa": "boolean"
+  }
+}
