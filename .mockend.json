@@ -2,7 +2,7 @@
   "Transit": {
     "tier1": "boolean",
     "name": "string",
-    "emails": "[]string",
+    "emails": "string[]",
     "send_loa": "boolean"
   }
 }
